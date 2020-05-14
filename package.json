@@ -42,6 +42,7 @@
     "@storybook/preset-create-react-app": "^2.1.2",
     "@storybook/react": "^5.3.18",
     "babel-jest": "^26.0.1",
-    "jest": "^26.0.1"
+    "jest": "^26.0.1",
+    "prettier": "2.0.5"
   }
 }
